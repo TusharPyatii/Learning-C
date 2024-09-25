@@ -1,0 +1,1 @@
+//Learnt variables, datatypes(primitive - int,char,float,double,bool),operators(arithmetic(+,-,*,/,%),logical(!,&&,||),relational(<,>,<=,>=),unary(++,--))
