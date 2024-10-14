@@ -33,5 +33,5 @@ int main()
     else
         cout<<ans;
 
-    return 0;
+    return 1;
 }
