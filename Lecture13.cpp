@@ -32,10 +32,7 @@ int main()
         cout<<0;
     else
         cout<<ans;
-<<<<<<< HEAD
 
     return 1;
 }
-=======
-}
->>>>>>> e72b31b081dc3ade83e37f89e495bdc8aa6e9154
+
