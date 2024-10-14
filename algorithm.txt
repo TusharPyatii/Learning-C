@@ -1,0 +1,7 @@
+#Shapes used while writing algorithm
+
+1.start/exit(stop) --> Oval shape.
+2.Input/Output     --> parallelogram(trapezium).
+3.process          --> Rectangle 
+4.Decision(conditional statements) --> Rhombus
+5. Connections   --> Arrows
