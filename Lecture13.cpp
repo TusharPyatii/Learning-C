@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-   vector<int>a={7,6,4,3,1} ;
+   vector<int>a={5,1,3,8,7} ;
    int n=a.size();
    int buy=a[0],z;;
    for(int i=1;i<n-1;i++)
@@ -32,6 +32,10 @@ int main()
         cout<<0;
     else
         cout<<ans;
+<<<<<<< HEAD
 
     return 1;
 }
+=======
+}
+>>>>>>> e72b31b081dc3ade83e37f89e495bdc8aa6e9154
