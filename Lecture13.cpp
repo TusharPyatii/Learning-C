@@ -33,6 +33,6 @@ int main()
     else
         cout<<ans;
 
-    return 1;
+    return 0;
 }
 
